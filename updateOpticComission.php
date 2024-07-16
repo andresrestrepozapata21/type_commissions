@@ -2,10 +2,10 @@
 date_default_timezone_set('America/Bogota');
 
 // Detalles de la conexión a la base de datos
-$db_host = "test-for-test2.cmgjtomlonmm.eu-west-1.rds.amazonaws.com";
-$db_user = "admin";
-$db_pass = "4#Am5C)9y~C*;yfFxA";
-$db_name = "test";
+$db_host = "";
+$db_user = "";
+$db_pass = "";
+$db_name = "";
 
 // Conectar a la base de datos usando PDO
 try {
